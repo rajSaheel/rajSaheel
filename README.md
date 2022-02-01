@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... learning
 - 🌱 I’m currently learning ... Java/Android & Website Development
 - 💞️ I’m looking to collaborate on ... anywhere
-- 📫 How to reach me ... Email-srg12114@gmail.com
+- 📫 How to reach me ... srg12114@gmail.com
 
 <!---
 rajsaheel/rajsaheel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
