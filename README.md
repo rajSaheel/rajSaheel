@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rajsaheel
+- 👋 Hi, I’m @rajSaheel
 - 👀 I’m interested in ... learning
 - 🌱 I’m currently learning ... Java/Android & Website Development
 - 💞️ I’m looking to collaborate on ... anywhere
