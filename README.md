@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rajSaheel
-- 👀 I’m interested in ... learning
-- 🌱 I’m currently learning ... Website Development
-- 💞️ I’m looking to collaborate on ... anywhere
+- 👀 I’m interested in ... FinTech
+- 🌱 I’m currently learning ... Blockchain
+- 💞️ I’m looking to collaborate on ... Github
 - 📫 How to reach me ... srg12114@gmail.com
 
 <!---
